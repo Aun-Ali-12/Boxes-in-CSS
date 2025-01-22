@@ -1,0 +1,26 @@
+div {
+  background-color: lightgray;
+  padding: 2% 2% 2% 2%;
+  max-height: 500px;
+  overflow-y: scroll;
+}
+img {
+  width: 200px;
+  height: 150px;
+  margin-left: 15%;
+}
+.product-card {
+  box-shadow: black;
+  border-radius: 3px;
+  width: 300px;
+  align-items: center;
+  margin: 25%;
+  border: dotted;
+  border-color: chocolate;
+  border-width: 10px;
+}
+.product-title {
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
+}
