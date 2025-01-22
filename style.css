@@ -1,8 +1,6 @@
 div {
   background-color: lightgray;
   padding: 2% 2% 2% 2%;
-  max-height: 500px;
-  overflow-y: scroll;
 }
 img {
   width: 200px;
@@ -15,7 +13,7 @@ img {
   width: 300px;
   align-items: center;
   margin: 25%;
-  border: dotted;
+  border-style: dotted;
   border-color: chocolate;
   border-width: 10px;
 }
@@ -23,4 +21,10 @@ img {
   font-size: 30px;
   font-family: sans-serif;
   text-align: center;
+}
+.product-description{
+    overflow-y: scroll;
+    max-height: 400px;
+    min-height: 100px;
+    
 }
