@@ -23,15 +23,14 @@ img {
   font-family: sans-serif;
   text-align: center;
 }
-.product-description{
-    overflow-y: scroll;
-    max-height: 130px;
-    min-height: 50px;
-    }
+.product-description {
+  overflow-y: scroll;
+  max-height: 130px;
+  min-height: 50px;
+}
 /* .product-price{
   visibility: hidden;
 }
 .product-price:hover{
   visibility: visible;
-  cursor: alias;
 } */
